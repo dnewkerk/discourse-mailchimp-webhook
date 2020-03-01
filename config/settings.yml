@@ -7,3 +7,6 @@ plugins:
     default: ''
   mailchimp_dc:
     default: 'us10'
+  mailchimp_user_field:
+    default: ''
+    client: true
